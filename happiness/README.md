@@ -80,3 +80,13 @@ Given the analysis of trends and identified anomalies, several recommendations e
 ### Conclusion
 
 The data presents a nuanced understanding of what contributes to happiness in societies today. Notably, while economic factors remain crucial, perceived corruption and social cohesion appear equally pivotal. Addressing these anomalies and reflecting on the trends identified can enhance future policymaking and contribute to more holistic definitions of success and happiness. As we lean into the next phase of analysis and action, it becomes vital to prioritize societal well-being across all economic spectrums.
+
+## Plot Images
+
+![Plot Image](correlation_heatmap.png)
+
+![Plot Image](clustering_bubble_map.png)
+
+![Plot Image](barplot_analysis.png)
+
+![Plot Image](time_series_line_chart.png)
