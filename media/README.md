@@ -98,5 +98,3 @@ By focusing on these findings and the underlying anomalies in patterns, decision
 ![Plot Image](clustering_bubble_map.png)
 
 ![Plot Image](barplot_analysis.png)
-
-![Plot Image](time_series_line_chart.png)
